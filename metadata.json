@@ -1,0 +1,6 @@
+{
+  "name": "AnalystIQ",
+  "description": "AI-powered data analyst that ingests, cleans, and visualizes your datasets with intelligent insights and interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["data-analysis", "visualization", "ai-agent"]
+}
